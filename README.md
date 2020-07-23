@@ -1,4 +1,6 @@
-# vue-form-register
+# vue-vuex-vuelidate-i18n-registration-login-todo
+
+Vue + Vuex + Vuelidate + i18n - User Registration, Login and Todo Tutorial & Example
 
 ## Project setup
 ```
