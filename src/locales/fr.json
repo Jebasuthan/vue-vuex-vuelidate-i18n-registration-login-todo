@@ -1,0 +1,11 @@
+{
+  "login.title": "Login",
+  "login.email": "E-Mail Address",
+  "login.emailrequired": "Email is required",
+  "login.invalidemail": "Email is invalid",
+  "login.password": "Password",
+  "login.passwordrequired": "Password is required",
+  "login.rememberme": "Remember Me",
+  "login.loginbuttontxt": "Login",
+  "login.newusertext": "New User? Join Us"
+}
