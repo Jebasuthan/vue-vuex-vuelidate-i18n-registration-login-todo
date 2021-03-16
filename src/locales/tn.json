@@ -1,11 +1,11 @@
 {
-  "login.title": "Login",
-  "login.email": "E-Mail Address",
-  "login.emailrequired": "Email is required",
-  "login.invalidemail": "Email is invalid",
-  "login.password": "Password",
-  "login.passwordrequired": "Password is required",
-  "login.rememberme": "Remember Me",
-  "login.loginbuttontxt": "Login",
-  "login.newusertext": "New User? Join Us"
+  "login.title": "உள்நுழைய",
+  "login.email": "மின்னஞ்சல் முகவரி",
+  "login.emailrequired": "மின்னஞ்சல் தேவை",
+  "login.invalidemail": "மின்னஞ்சல் தவறானது",
+  "login.password": "கடவுச்சொல்",
+  "login.passwordrequired": "கடவுச்சொல் தேவை",
+  "login.rememberme": "என்னை நினைவில் வையுங்கள்",
+  "login.loginbuttontxt": "உள்நுழைய",
+  "login.newusertext": "புதிய பயனர்? எங்களுடன் சேர்"
 }
