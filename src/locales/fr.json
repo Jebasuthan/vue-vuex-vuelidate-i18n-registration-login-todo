@@ -1,11 +1,11 @@
 {
-  "login.title": "Login",
-  "login.email": "E-Mail Address",
-  "login.emailrequired": "Email is required",
-  "login.invalidemail": "Email is invalid",
-  "login.password": "Password",
-  "login.passwordrequired": "Password is required",
-  "login.rememberme": "Remember Me",
-  "login.loginbuttontxt": "Login",
-  "login.newusertext": "New User? Join Us"
+  "login.title": "Connexion",
+  "login.email": "Adresse e-mail",
+  "login.emailrequired": "Email est requis",
+  "login.invalidemail": "Le courriel est invalide",
+  "login.password": "Mot de passe",
+  "login.passwordrequired": "Mot de passe requis",
+  "login.rememberme": "Souviens-toi de moi",
+  "login.loginbuttontxt": "Connexion",
+  "login.newusertext": "Nouvel utilisateur? Rejoignez-nous"
 }
