@@ -11,6 +11,19 @@ npm install
 ```
 npm run serve
 ```
+## Features available in the application:
+1. Perfect Folder Structure
+2. User Registration
+3. Login
+4. Vuex
+5. Router and Authentication added
+6. Vuelidate (Form Validations)
+7. Languate Translation (i18n / locales)
+8. Individual Components and Modules
+9. No other external libraries
+10. Custom Utils functions (Email validation, Format Phone (111) 111–1111), & localstorage, ... etc)
+
+
 ### Screen Shots
 
 <img width="1440" alt="Screenshot 2020-07-23 at 5 27 50 PM" src="https://user-images.githubusercontent.com/3702438/88284364-e6934680-cd0a-11ea-979a-0273baae75a5.png">
