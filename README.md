@@ -12,7 +12,7 @@ npm install
 npm run serve
 ```
 
-## <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉 </g-emoji> [Demo Link](jebasuthan.github.io/vue-vuex-vuelidate-i18n-registration-login-todo)  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
+## <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉 </g-emoji> [Demo Link](https://jebasuthan.github.io/vue-vuex-vuelidate-i18n-registration-login-todo/)  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
 
 ## Features available in the application:
 1. Perfect Folder Structure
